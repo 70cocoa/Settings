@@ -9,4 +9,5 @@
     "editor.detectIndentation": false,
 		"editor.insertSpaces": false,
 		"editor.folding": true,
-	}
+    "editor.minimap.enabled": false,            
+}
